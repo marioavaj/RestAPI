@@ -1,0 +1,19 @@
+#vypis{
+    background-color: bisque;
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    width: 16em;
+}
+
+#element{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+}
+
+h1{
+    text-align: justify;
+    font-size: 1.3em;
+}
